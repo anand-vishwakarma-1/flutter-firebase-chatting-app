@@ -1,2 +1,1 @@
-# flutter-firebase-chatting-app
- 
+# A Chatting app using flutter and firebase
